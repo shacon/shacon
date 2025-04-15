@@ -1,10 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Shannon 👋
 
+I'm a software engineer who recently completed a batch at the [Recurse Center](https://www.recurse.com/), with experience working across various industries as a full stack developer.
+
+My technical experience includes front-end and back-end development, most recently in Ruby on Rails and Vue.js. I enjoy working on supportive and collaborative teams.
+
+When I'm not coding, I enjoy quilting, taking my border collie for walks by the Chicago lakefront and always naming a third thing when I make a list.
+
+Learn more about what I've been up to on [my blog](shacon.bearblog.dev)
 <!--
-**shacon/shacon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
