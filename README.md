@@ -6,7 +6,7 @@ My technical experience includes front-end and back-end development, most recent
 
 When I'm not coding, I enjoy quilting, taking my border collie for walks by the Chicago lakefront and always naming a third thing when I make a list.
 
-Learn more about what I've been up to on [my blog](shacon.bearblog.dev)
+Learn more about what I've been up to on [my blog](https://shacon.bearblog.dev/)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
